@@ -1,0 +1,102 @@
+body{
+	background-image: url(../gif/tumblr_mxeds7ekEv1ru0os8o1_500.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 138%;
+
+}
+	#for{
+		color:white;
+		font-family: Wide Latin;
+		font-size:17px;
+		margin-top: 27%;
+		margin-left:28%;
+
+	}
+	#signin{
+		border-radius: 10px;
+		background: rgba(255,255,255,0.7);
+		font-family: Algerian;
+		font-size: 15px;
+		color:red;
+	}
+	#sign{
+		border-radius: 10px;
+		background: black;
+		color:red;
+		font-family: Algerian;
+	}
+	#word{
+		font-family: Algerian;
+		color:red;
+	}
+	
+#info{
+	width:80%;
+	height:60%;
+	color:black;
+	font-family: Haettenschweiler;
+	font-size: 23px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	margin-top: 25px;
+}
+#sub{
+	color:black;
+	font-family: Algerian;
+	font-size: 8px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	width:5%;
+	height:5%;
+	margin-top: 10px;
+	margin-left:0.5px;
+}
+
+.item{
+    text-align: center;
+    height:100%;
+    width:100%;
+}
+.carousel{
+	margin-left: 2%;
+    margin-top: 6%;
+    width: 50%;
+    height: 50%;
+}
+#word{
+	font-family: Algerian;
+	color:red;
+}
+#text{
+	color:gold;
+	font-family: Informal Roman;
+	font-size: 23px;
+	margin-top: 8%;
+	border-color: red;
+	background-color: red;
+}
+#mate{
+
+	font-family: Ravie;
+	color:gold;
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 25px;
+	width: 50%;
+	height:50%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: white;
+	border-radius: 10px;
+
+}
+#mark {
+	font-family: Ravie;
+	color:gold;
+	width: 50%;
+	height:50%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: white;
+	border-radius: 10px;
+}

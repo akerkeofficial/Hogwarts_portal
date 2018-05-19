@@ -1,0 +1,86 @@
+body{
+	background-image: url(../gif/Ravenklo.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 138%;
+
+}
+	#for{
+		color:white;
+		font-family: Wide Latin;
+		font-size:17px;
+		margin-top: 27%;
+		margin-left:28%;
+	}
+	#signin{
+		border-radius: 10px;
+		background: rgba(255,255,255,0.7);
+		font-family: Castellar;
+		font-size: 15px;
+		font-color: black;
+	}
+	#sign{
+		border-radius: 10px;
+		background: black;
+		color:blue;
+		font-family: Algerian;
+	}
+	#word{
+		font-family: Algerian;
+		color:blue;
+	}
+#info{
+	width:80%;
+	height:60%;
+	color:black;
+	font-family: Haettenschweiler;
+	font-size: 23px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	margin-top: 25px;
+}
+#sub{
+	color:black;
+	font-family: Haettenschweiler;
+	font-size: 23px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	width:80%;
+	height:60%;
+}
+
+.item{
+    text-align: center;
+    height:100%;
+    width:100%;
+}
+.carousel{
+	margin-left: 2%;
+    margin-top: 6%;
+    width: 50%;
+    height: 50%;
+}
+
+#text{
+	color:blue;
+	font-family: Informal Roman;
+	font-size: 23px;
+	margin-top: 8%;
+	border-color: #306672;
+	background-color:#E1F35A ;
+}
+#mate{
+
+	font-family: Ravie;
+	color:#82E9EB;
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 25px;
+	width: 50%;
+	height:50%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: rgba(255,255,255,0.7);;
+	border-radius: 10px;
+
+}

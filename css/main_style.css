@@ -1,0 +1,22 @@
+html,
+#word {
+    color:black;
+    font-family: Algerian;
+}
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+    .transparent {
+        filter: alpha(Opacity=50);
+        opacity: 0.5
+    }
+    #for{
+        color:red;
+        font-family: Algerian;
+        font-size:20px;
+        margin-top: 10%;
+        margin-left:60%;
+    }

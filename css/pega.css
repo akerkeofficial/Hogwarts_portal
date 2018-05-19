@@ -1,0 +1,65 @@
+body{
+	background-image: url(../gif/tumblr_mxeds7ekEv1ru0os8o1_500.gif);
+	background-repeat: no-repeat;
+	background-size: 100% 140%;
+
+}
+#info{
+	width:80%;
+	height:60%;
+	color:black;
+	font-family: Informal Roman;
+	font-size: 23px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	margin-top: 25px;
+}
+#sub{
+	color:black;
+	font-family: Informal Roman;
+	font-size: 23px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: #B6B4B2;
+	border-radius: 10px;
+	width:80%;
+	height:60%;
+}
+
+.item{
+    text-align: center;
+    height:100%;
+    width:100%;
+}
+.carousel{
+	margin-left: 2%;
+    margin-top: 6%;
+    width: 50%;
+    height: 50%;
+}
+#word{
+	font-family: Algerian;
+	color:red;
+}
+#text{
+	color:gold;
+	font-family: Informal Roman;
+	font-size: 23px;
+	margin-top: 8%;
+	border-color: red;
+	background-color: red;
+}
+#mate{
+
+	font-family: Ravie;
+	color:gold;
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 25px;
+	width: 50%;
+	height:50%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	background: white;
+	border-radius: 10px;
+
+}
